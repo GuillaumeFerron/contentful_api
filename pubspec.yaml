@@ -1,5 +1,5 @@
 name: contentful_api
-description: A new Flutter package project.
+description: A wrapper around Contentful Content Delivery api
 version: 0.0.1
 homepage:
 
