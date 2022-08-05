@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
+# Contentful API
+
 This package implements a wrapper around the Contentful Content Delivery api.
 <https://www.contentful.com/developers/docs/references/content-delivery-api>
 
