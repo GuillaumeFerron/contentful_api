@@ -1,7 +1,7 @@
 name: contentful_api
 description: A wrapper around Contentful Content Delivery api
 version: 0.0.1
-homepage:
+homepage: https://github.com/GuillaumeFerron/contentful_api
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
